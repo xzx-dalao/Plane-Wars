@@ -1,0 +1,33 @@
+        //生成敌机
+        // if(this.currentTime-this.enemyTime>500){ 
+        //     var eimg=this.enemyImg[parseInt(Math.random()*3)]//生成随机的敌机
+        //     var x=parseInt(Math.random()*(this.width-this.eimg.width))        //生成敌机坐标
+        //     var y=-eimg.height  
+        //     var speed =parseInt(Math.random()*20) 
+        //     var enemy=new EnemyPlane(img,x,y,speed,500,this) 
+        //     this.enemyArray.push(enemy)
+        //     this.enemyTime=currentTime
+        // }
+        // this.enemyArray.forEach((item,index)=>{
+        //     item.draw()
+        // })
+
+           // this.enemyImg=this.loadImg(this.enemyPath)
+        // this.enemyPath.forEach(value => {
+        //     var img = o.loadImg(value);
+        //     o.enemyArray.push(img )
+        // });
+
+           //生成敌机
+        // if(this.currentTime-this.enemyTime>500){ 
+        //     var eimg=this.enemyImg[parseInt(Math.random()*3)]//生成随机的敌机
+        //     var x=parseInt(Math.random()*(this.width-this.eimg.width))        //生成敌机坐标
+        //     var y=-eimg.height  
+        //     var speed =parseInt(Math.random()*20) 
+        //     var enemy=new EnemyPlane(img,x,y,speed,500,this) 
+        //     this.enemyArray.push(enemy)
+        //     this.enemyTime=currentTime
+        // }
+        // this.enemyArray.forEach((item,index)=>{
+        //     item.draw()
+        // })
